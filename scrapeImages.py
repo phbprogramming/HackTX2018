@@ -103,40 +103,40 @@ def record_profile(name, age, distance, insta, photos):
 # 5dd67da6506.mp4'], 'location': [30.5, -97.9], 'radius': 'ok'}
 
 def run(guiInput):
-    result = imagecompare.doComparison(guiInput["fileName"][0], "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_lizards.jpg")
-    return result[1]
-    # phone_number = "15125228879"
-    # log_code = sendCode(phone_number)
-    # sms_code = input("Please enter the code you've received by sms")
-    #
-    # myToken = str(getToken(phone_number, sms_code, log_code))
-    #
-    # print("Here is your Tinder token :" + myToken)
-    #
-    # session = pynder.Session(XAuthToken=myToken)
-    # session.update_location(guiInput['location'][0], guiInput['location'][1])
-    # users = session.nearby_users(guiInput['radius'])
-    #
-    # i = 1
-    #
-    # #itertools.islice(users, 10):
-    # #needs to stop using relative path, is only geting the first one
-    # basephoto = guiInput["fileName"][0]
-    #
-    # f = open("logfile.txt", "a")
-    #
-    # for user in users:
-    #     match = False
-    #     time.sleep(1)
-    #     print(" ")
-    #     print(i)
-    #     i+=1
-    #     print("Name: " + user.name)
-    #     print("Insta: " + str(user.instagram_username))
-    #     print("Age: " + str(user.age))
-    #     for url in user.photos:
-    #         result = imagecompare.doComparison(basephoto, url)
-    #         if (result[0] < 3000 or result[1] > 0.4 or result[2] < 30):
-    #             match = True
-    #     if(match):
-    #         record_profile(user.name, str(user.age), str(user.distance_km), str(user.instagram_username), photos)
+    # result = imagecompare.doComparison(guiInput["fileName"][0], "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_lizards.jpg")
+    # return result[1]
+    phone_number = "15125228879"
+    log_code = sendCode(phone_number)
+    sms_code = input("Please enter the code you've received by sms")
+
+    myToken = str(getToken(phone_number, sms_code, log_code))
+
+    print("Here is your Tinder token :" + myToken)
+
+    session = pynder.Session(XAuthToken=myToken)
+    session.update_location(guiInput['location'][0], guiInput['location'][1])
+    users = session.nearby_users(guiInput['radius'])
+
+    i = 1
+
+    #itertools.islice(users, 10):
+    #needs to stop using relative path, is only geting the first one
+    basephoto = guiInput["fileName"][0]
+
+    f = open("logfile.txt", "a")
+
+    for user in users:
+        match = False
+        time.sleep(1)
+        print(" ")
+        print(i)
+        i+=1
+        print("Name: " + user.name)
+        print("Insta: " + str(user.instagram_username))
+        print("Age: " + str(user.age))
+        for url in user.photos:
+            result = imagecompare.doComparison(basephoto, url)
+            if (result[0] < 3000 or result[1] > 0.4 or result[2] < 30):
+                match = True
+        if(match):
+            record_profile(user.name, str(user.age), str(user.distance_km), str(user.instagram_username), photos)
