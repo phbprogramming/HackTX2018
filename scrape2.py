@@ -132,7 +132,7 @@ def run(guiInput):
         print(" ")
         print(i)
         i+=1
-        print("Name: " + str(user.name))
+        print("Name: " + user.name)
         print("Insta: " + str(user.instagram_username))
         print("Age: " + str(user.age))
 

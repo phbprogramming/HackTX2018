@@ -33,7 +33,7 @@ assert subscription_key
 
 # filepath = ___________INSERTVARHERE
 
-def beginImageRec(filePath, imageToCheck){
+def beginImageRec(filePath, imageToCheck):
     headers = {
         # Request headers
         'Content-Type': 'application/octet-steam',
@@ -117,7 +117,8 @@ def beginImageRec(filePath, imageToCheck){
     returnedValue = response.json()
 
     print(returnedValue)
-}
+
+beginImageRec("https://www.pexels.com/photo/face-facial-hair-fine-looking-guy-614810/", "https://www.pexels.com/photo/face-facial-hair-fine-looking-guy-614810/")
 
 
 # try:

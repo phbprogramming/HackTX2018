@@ -5,6 +5,7 @@ import dhash
 from PIL import Image
 import urllib
 import io
+#import face
 
 def url_to_image(url):
 	# download the image, convert it to a NumPy array, and then read
@@ -61,4 +62,8 @@ def doComparison(photo1loc, photo2loc):
     num_bits_different = dhash.get_num_bits_different(dhash.dhash_int(image1), dhash.dhash_int(image2))
     # print(num_bits_different)
 
-    return (MSE, SSIM, num_bits_different)
+    #faceCompare = face.beginImageRec(photo1loc, photo2loc)
+
+    faceCompare = 0.3
+
+    return (MSE, SSIM, num_bits_different, faceCompare)
