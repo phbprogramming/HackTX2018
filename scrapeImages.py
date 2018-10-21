@@ -140,7 +140,7 @@ def run(guiInput):
 
         for url in user.photos:
             photoObject = []
-            for imageLoc in guiInpu['fileName']:
+            for imageLoc in guiInput['fileName']:
                 result = imagecompare.doComparison(imageLoc, url)
                 if (result[0] < 3000 or result[1] > 0.4 or result[2] < 30 or result[3] > 0.4):
                     match = True
