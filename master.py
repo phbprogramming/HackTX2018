@@ -1,4 +1,5 @@
 from tkinter import *
+from tkinter import messagebox
 from tkinter.filedialog import askopenfilename,askdirectory
 from PIL import ImageTk,Image
 from os import listdir
@@ -39,7 +40,8 @@ class Main:
         zipcode = search.by_zipcode(self.e5.get())
         ans['location'] = [zipcode.lat, zipcode.lng]
         ans['radius'] = self.e6.get()
-        run(ans)
+        answer = run(ans)
+        messagebox.showinfo("Results", answer)
         # print(ans)
 
     def __init__(self, master):

@@ -103,8 +103,8 @@ def record_profile(name, age, distance, insta, photos):
 # 5dd67da6506.mp4'], 'location': [30.5, -97.9], 'radius': 'ok'}
 
 def run(guiInput):
-    result = imagecompare.doComparison("somephoto.JPG", "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_lizards.jpg")
-    print(result[1])
+    result = imagecompare.doComparison(guiInput["fileName"][0], "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_lizards.jpg")
+    return result[1]
     # phone_number = "15125228879"
     # log_code = sendCode(phone_number)
     # sms_code = input("Please enter the code you've received by sms")
