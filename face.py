@@ -36,7 +36,7 @@ assert subscription_key
 def beginImageRec(filePath, imageToCheck):
     headers = {
         # Request headers
-        'Content-Type': 'application/octet-steam',
+        'Content-Type': 'application/octet-stream',
         'Ocp-Apim-Subscription-Key': subscription_key,
     }
 
@@ -51,7 +51,7 @@ def beginImageRec(filePath, imageToCheck):
     }
     # data = {'url': image_url}
     data = open(filePath).read()
-    response = requests.post(face_api_url, params=params, headers=headers, octet-stream=data)
+    response = requests.post(face_api_url, params=params, headers=headers, data=data)
     face1 = response.json()
     # print(face1);
     #################

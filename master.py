@@ -40,6 +40,10 @@ class Main:
         zipcode = search.by_zipcode(self.e5.get())
         ans['location'] = [zipcode.lat, zipcode.lng]
         ans['radius'] = self.e6.get()
+        print("latitude")
+        print(zipcode.lat)
+        print("long")
+        print(zipcode.lng)
         answer = run(ans)
         messagebox.showinfo("Results", answer)
         # print(ans)

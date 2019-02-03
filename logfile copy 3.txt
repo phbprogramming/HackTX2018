@@ -1,0 +1,818 @@
+Name: Tyler
+age: 19
+distance from search origin: 4.82802km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5ba08d11051746876e96bd28/640x800_67cd9f81-7f26-4732-8d5e-0ddf18118c68.jpg
+	MSE: 6448.9229337
+	SSIM: 0.402251964315	bits of difference: 64
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Jesse
+age: 21
+distance from search origin: 6.43736km
+instagram profile: jesse_bryan
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b2bff4696e1f82b6493fdf1/640x800_a2eb90ba-4901-4604-a43d-4c63ad1d9723.jpg
+	MSE: 4184.77542905
+	SSIM: 0.434287241791	bits of difference: 58
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Adrian
+age: 21
+distance from search origin: 51.49888km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/58ccd056e30c61642a1c4562/640x800_891a18e6-a361-446f-8125-0585d50b30a6.jpg
+	MSE: 4071.57914277
+	SSIM: 0.514886282416	bits of difference: 74
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/58ccd056e30c61642a1c4562/640x640_936e3857-1aa3-4ecf-91c8-b483b3a4d15f.jpg
+	MSE: 5348.218057
+	SSIM: 0.430418811941	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/58ccd056e30c61642a1c4562/640x640_5e741f3e-564c-4b08-89cb-e2f155b8f32d.jpg
+	MSE: 5367.81394573
+	SSIM: 0.437826379452	bits of difference: 58
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Dorian
+age: 22
+distance from search origin: 9.65604km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/59f3993a19e1196f6ba92e2f/640x800_ef508b6e-1bbb-4151-98bd-a1d7b14c0e31.jpg
+	MSE: 5369.96702185
+	SSIM: 0.429089031323	bits of difference: 53
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Savana
+age: 21
+distance from search origin: 16.0934km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5611e1707fa58ead1894cb29/640x640_23156e1b-06a7-409e-9a55-a0d7b48023db.jpg
+	MSE: 7160.62915748
+	SSIM: 0.407857716616	bits of difference: 62
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Manny
+age: 18
+distance from search origin: 9.65604km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5a5acd9fa0bb942c1a4921d8/640x640_af6c0d00-97de-4615-8219-7f1e9015a7f2.jpg
+	MSE: 5866.66732273
+	SSIM: 0.423851242721	bits of difference: 59
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5a5acd9fa0bb942c1a4921d8/640x800_12454462-0e1c-4762-8bba-a35c9debcef2.jpg
+	MSE: 4712.76460407
+	SSIM: 0.411650472716	bits of difference: 61
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Ruby
+age: 22
+distance from search origin: 12.87472km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5a82646fcddb80c4208808e9/640x800_3069cf15-8847-47fd-8010-74f302b5cc65.jpg
+	MSE: 5496.1514606
+	SSIM: 0.409821441274	bits of difference: 69
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Leo
+age: 22
+distance from search origin: 9.65604km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/580a6fd731e2aa49617ad87c/640x640_d42bba2a-73ab-40fa-9460-c4d46502c81f.jpg
+	MSE: 6391.60754475
+	SSIM: 0.497603152138	bits of difference: 64
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Jacob
+age: 19
+distance from search origin: 3.21868km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/58f0eff695ca1df3232ba963/640x640_16936be0-0c72-43c2-9ca5-77079ce0ba0b.jpg
+	MSE: 8156.54609911
+	SSIM: 0.412949698247	bits of difference: 69
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Aaron
+age: 22
+distance from search origin: 6.43736km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5403f63cf92b3fba42c27dff/640x800_5ddc7040-8d01-47c9-8893-f94f6c9a1c1c.jpg
+	MSE: 5592.52154045
+	SSIM: 0.412199326561	bits of difference: 65
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Richard
+age: 19
+distance from search origin: 9.65604km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/59c090842a8aa9de35a853a7/640x640_bd8cd0b4-6001-4391-a630-f42df22c6f32.jpg
+	MSE: 5001.84727907
+	SSIM: 0.465662547204	bits of difference: 58
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Andy
+age: 21
+distance from search origin: 3.21868km
+instagram profile: andyjtho
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x800_f9ac24dd-e02b-44e5-831f-601cf499d949.jpg
+	MSE: 8466.22132755
+	SSIM: 0.425136710403	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x640_87c4da92-3058-4d40-9b07-84197813b075.jpg
+	MSE: 8853.39891271
+	SSIM: 0.48868269753	bits of difference: 52
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x800_06af0eb0-7d90-464a-8754-6ab25b3bfc13.jpg
+	MSE: 6785.71286822
+	SSIM: 0.43401794796	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x640_cdbace7f-c29f-48a1-89bc-4c6856b2a5bb.jpg
+	MSE: 4984.437185
+	SSIM: 0.425911095604	bits of difference: 70
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Andy
+age: 21
+distance from search origin: 3.21868km
+instagram profile: andyjtho
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x800_f9ac24dd-e02b-44e5-831f-601cf499d949.jpg
+	MSE: 8466.22132755
+	SSIM: 0.425136710403	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x640_87c4da92-3058-4d40-9b07-84197813b075.jpg
+	MSE: 8853.39891271
+	SSIM: 0.48868269753	bits of difference: 52
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x800_06af0eb0-7d90-464a-8754-6ab25b3bfc13.jpg
+	MSE: 6785.71286822
+	SSIM: 0.43401794796	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/56cd4ee57a881c164e6fac6b/640x640_cdbace7f-c29f-48a1-89bc-4c6856b2a5bb.jpg
+	MSE: 4984.437185
+	SSIM: 0.425911095604	bits of difference: 70
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Asmeret
+age: 22
+distance from search origin: 51.49888km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/59e2d5d14094b87533e2f0cb/640x800_ca38c2c3-e70d-4809-925d-cd3934c9ce20.jpg
+	MSE: 3788.04137991
+	SSIM: 0.44509472482	bits of difference: 47
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Lauren
+age: 19
+distance from search origin: 24.1401km
+instagram profile: laurenmariechips
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5a6e8bb605798f867afdd638/640x640_cb3c2b70-819c-4f8a-8210-f00d7e512d8f.jpg
+	MSE: 3918.29092262
+	SSIM: 0.448836814476	bits of difference: 62
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5a6e8bb605798f867afdd638/640x640_86e5234a-da81-4ded-8121-f56b76bdf1b8.jpg
+	MSE: 3761.68192888
+	SSIM: 0.45202272682	bits of difference: 59
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Preston
+age: 21
+distance from search origin: 4.82802km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_98154098-8424-4b6f-b8f1-0392eafb587b.jpg
+	MSE: 1275.03870674
+	SSIM: 0.45092100828	bits of difference: 14
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_d2569534-c704-4605-8902-9433e07b3026.jpg
+	MSE: 3470.64180851
+	SSIM: 0.310251438144	bits of difference: 24
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_37826440-a461-4776-a777-aa6d7c8ac639.jpg
+	MSE: 1635.09199618
+	SSIM: 0.300556098547	bits of difference: 20
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_b91e538a-569c-4b43-9068-488b365c9695.jpg
+	MSE: 11912.3402727
+	SSIM: 0.433403029956	bits of difference: 72
+	facial recognition probability: 0.3
+	Photo 5:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_7a2a086d-f053-419f-90ec-96aacd876217.jpg
+	MSE: 784.252571038
+	SSIM: 0.375761462208	bits of difference: 9
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Jarred
+age: 18
+distance from search origin: 4.82802km
+instagram profile: jarred.luis
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b29d436aadde6955cd557be/640x800_f3935770-9c9a-4577-8cc3-4e93f1aeb215.jpg
+	MSE: 3894.15028458
+	SSIM: 0.560222692746	bits of difference: 65
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Joshua
+age: 19
+distance from search origin: 3.21868km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_834d6db7-72b0-4004-8987-7e657f4f3120.jpg
+	MSE: 6924.52254229
+	SSIM: 0.411844586496	bits of difference: 65
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_8be55dd0-f93b-493f-a04a-9ff52c1c4995.jpg
+	MSE: 5036.53471417
+	SSIM: 0.415326371451	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_ac410db6-775c-4de6-8273-e80a7b60150d.jpg
+	MSE: 6557.64212145
+	SSIM: 0.401991735853	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_4dd9d2bb-45b3-4a2f-9d1a-dad4df3a6af5.jpg
+	MSE: 5297.93067968
+	SSIM: 0.442889257427	bits of difference: 63
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Josh
+age: 19
+distance from search origin: 4.82802km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5a8c9eb080e24ab95c3b190c/640x640_c249001d-0905-45e7-b9dd-4883dd85c2ce.jpg
+	MSE: 5104.43696124
+	SSIM: 0.408872818584	bits of difference: 60
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Alex
+age: 19
+distance from search origin: 19.31208km
+instagram profile: chaosattheclub
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5aaa25ddab2b5fde6aa9596d/640x800_3a747558-643c-4dc9-88be-15569ff86c0c.jpg
+	MSE: 5879.80875152
+	SSIM: 0.414341189663	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5aaa25ddab2b5fde6aa9596d/640x800_48e64349-4ea4-4b47-a54e-d1b3adc2c7d7.jpg
+	MSE: 6781.01354384
+	SSIM: 0.428603745698	bits of difference: 53
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Oleksandr
+age: 22
+distance from search origin: 1.60934km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5ba7dba55a0ee7db6d368565/640x800_6aead85b-dd88-4a87-bd4a-8305ce264eeb.jpg
+	MSE: 3874.23133739
+	SSIM: 0.418712419048	bits of difference: 66
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Aaron
+age: 22
+distance from search origin: 6.43736km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5403f63cf92b3fba42c27dff/640x800_5ddc7040-8d01-47c9-8893-f94f6c9a1c1c.jpg
+	MSE: 5592.52154045
+	SSIM: 0.412199326561	bits of difference: 65
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Preston
+age: 21
+distance from search origin: 4.82802km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_98154098-8424-4b6f-b8f1-0392eafb587b.jpg
+	MSE: 1275.03870674
+	SSIM: 0.45092100828	bits of difference: 14
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_d2569534-c704-4605-8902-9433e07b3026.jpg
+	MSE: 3470.64180851
+	SSIM: 0.310251438144	bits of difference: 24
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_37826440-a461-4776-a777-aa6d7c8ac639.jpg
+	MSE: 1635.09199618
+	SSIM: 0.300556098547	bits of difference: 20
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_b91e538a-569c-4b43-9068-488b365c9695.jpg
+	MSE: 11912.3402727
+	SSIM: 0.433403029956	bits of difference: 72
+	facial recognition probability: 0.3
+	Photo 5:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_7a2a086d-f053-419f-90ec-96aacd876217.jpg
+	MSE: 784.252571038
+	SSIM: 0.375761462208	bits of difference: 9
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Carter
+age: 20
+distance from search origin: 51.49888km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b00b0776016306a15d20a8e/640x800_78b4663e-e7af-4610-876d-9bd250c85d7d.jpg
+	MSE: 3819.19637426
+	SSIM: 0.54514362333	bits of difference: 48
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5b00b0776016306a15d20a8e/640x800_df151a2c-80a2-4671-89c3-86837ae30664.jpg
+	MSE: 7484.07922206
+	SSIM: 0.430153629296	bits of difference: 67
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Nick
+age: 18
+distance from search origin: 4.82802km
+instagram profile: nick_servas
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b19e7ea08a5599379b66314/640x800_f268aa6b-480e-45f8-817c-4cae418e25bb.jpg
+	MSE: 3758.62282543
+	SSIM: 0.435166517787	bits of difference: 46
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5b19e7ea08a5599379b66314/640x800_449802f4-41f5-4335-ac7b-2e93261ebad2.jpg
+	MSE: 5002.53371785
+	SSIM: 0.409034695753	bits of difference: 70
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: David
+age: 21
+distance from search origin: 20.92142km
+instagram profile: darch97
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/523a6b2164d5a2124c000d13/640x640_e9fd87f4-7c29-4cb8-a3a1-dae85727c001.jpg
+	MSE: 4760.30695878
+	SSIM: 0.406330818361	bits of difference: 65
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Maverick
+age: 22
+distance from search origin: 6.43736km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5497940b6f1ee60428ba0ab2/640x640_04cd74e6-3286-411c-8e8a-3b2901c695ec.jpg
+	MSE: 9104.85192583
+	SSIM: 0.42225196667	bits of difference: 64
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Mason
+age: 22
+distance from search origin: 14.48406km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/56de832c6838a81b5ae5f083/640x800_2314328c-f560-4a89-8840-bc3940716337.jpg
+	MSE: 3515.09591045
+	SSIM: 0.466380781923	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/56de832c6838a81b5ae5f083/640x800_3698da1d-b184-48a4-b4d5-70b0ba5308d2.jpg
+	MSE: 3810.40519964
+	SSIM: 0.462843745476	bits of difference: 71
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/56de832c6838a81b5ae5f083/640x800_688ee7eb-7986-4447-9449-83e98c0553ca.jpg
+	MSE: 4283.10359344
+	SSIM: 0.414391684815	bits of difference: 54
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Jacob
+age: 21
+distance from search origin: 59.54558km
+instagram profile: jakeizzle_
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b930e1ba680325c25e01d22/640x640_4aa1c02e-fdcb-4828-ae1c-d9de2a0f1114.jpg
+	MSE: 3576.1465133
+	SSIM: 0.406526602331	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5b930e1ba680325c25e01d22/640x800_eb9e9c91-8e40-4702-8c79-46ab922480c9.jpg
+	MSE: 5085.41408832
+	SSIM: 0.433254687029	bits of difference: 62
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Preston
+age: 21
+distance from search origin: 4.82802km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_98154098-8424-4b6f-b8f1-0392eafb587b.jpg
+	MSE: 1275.03870674
+	SSIM: 0.45092100828	bits of difference: 14
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_d2569534-c704-4605-8902-9433e07b3026.jpg
+	MSE: 3470.64180851
+	SSIM: 0.310251438144	bits of difference: 24
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_37826440-a461-4776-a777-aa6d7c8ac639.jpg
+	MSE: 1635.09199618
+	SSIM: 0.300556098547	bits of difference: 20
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_b91e538a-569c-4b43-9068-488b365c9695.jpg
+	MSE: 11912.3402727
+	SSIM: 0.433403029956	bits of difference: 72
+	facial recognition probability: 0.3
+	Photo 5:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_7a2a086d-f053-419f-90ec-96aacd876217.jpg
+	MSE: 784.252571038
+	SSIM: 0.375761462208	bits of difference: 9
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Matthew
+age: 20
+distance from search origin: 3.21868km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/58c76201213f80a40f5b4358/640x800_e48ba3a9-2755-4471-818d-10eb29fd62a0.jpg
+	MSE: 4058.20245481
+	SSIM: 0.447104446505	bits of difference: 62
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Joshua
+age: 19
+distance from search origin: 3.21868km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_834d6db7-72b0-4004-8987-7e657f4f3120.jpg
+	MSE: 6924.52254229
+	SSIM: 0.411844586496	bits of difference: 65
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_8be55dd0-f93b-493f-a04a-9ff52c1c4995.jpg
+	MSE: 5036.53471417
+	SSIM: 0.415326371451	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_ac410db6-775c-4de6-8273-e80a7b60150d.jpg
+	MSE: 6557.64212145
+	SSIM: 0.401991735853	bits of difference: 54
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/5b7cbc9cc621a2081bb4596b/640x640_4dd9d2bb-45b3-4a2f-9d1a-dad4df3a6af5.jpg
+	MSE: 5297.93067968
+	SSIM: 0.442889257427	bits of difference: 63
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Daniel
+age: 21
+distance from search origin: 4.82802km
+instagram profile: danielpishak
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5666959c0b7cf361467755cd/640x640_aa93b983-84f5-4381-8987-f40d789a6eb3.jpg
+	MSE: 5014.27843022
+	SSIM: 0.454042169473	bits of difference: 59
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Preston
+age: 21
+distance from search origin: 4.82802km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_98154098-8424-4b6f-b8f1-0392eafb587b.jpg
+	MSE: 1275.03870674
+	SSIM: 0.45092100828	bits of difference: 14
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_d2569534-c704-4605-8902-9433e07b3026.jpg
+	MSE: 3470.64180851
+	SSIM: 0.310251438144	bits of difference: 24
+	facial recognition probability: 0.3
+	Photo 3:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_37826440-a461-4776-a777-aa6d7c8ac639.jpg
+	MSE: 1635.09199618
+	SSIM: 0.300556098547	bits of difference: 20
+	facial recognition probability: 0.3
+	Photo 4:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_b91e538a-569c-4b43-9068-488b365c9695.jpg
+	MSE: 11912.3402727
+	SSIM: 0.433403029956	bits of difference: 72
+	facial recognition probability: 0.3
+	Photo 5:
+	url: https://images-ssl.gotinder.com/597c3cd58716ea1e29c3a08b/640x640_7a2a086d-f053-419f-90ec-96aacd876217.jpg
+	MSE: 784.252571038
+	SSIM: 0.375761462208	bits of difference: 9
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Donevan
+age: 21
+distance from search origin: 49.88954km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b3136eda0f0f2bf2041f408/640x800_68210b8f-1a11-4005-81d9-c71660d769dc.jpg
+	MSE: 3721.11785171
+	SSIM: 0.44204573049	bits of difference: 71
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5b3136eda0f0f2bf2041f408/640x800_786b0940-8786-40db-978d-0e45894f9de7.jpg
+	MSE: 7818.39189477
+	SSIM: 0.423031152686	bits of difference: 52
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+

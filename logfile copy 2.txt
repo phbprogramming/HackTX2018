@@ -1,0 +1,47 @@
+Name: Tyler
+age: 19
+distance from search origin: 4.82802km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5ba08d11051746876e96bd28/640x800_67cd9f81-7f26-4732-8d5e-0ddf18118c68.jpg
+	MSE: 6448.9229337
+	SSIM: 0.402251964315	bits of difference: 64
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: ernie
+age: 18
+distance from search origin: 65.98294km
+instagram profile: None
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_a1b116ef-db25-45d7-891e-8ebcc8ffafbe.jpg
+	MSE: 4078.66455509
+	SSIM: 0.515245041934	bits of difference: 60
+	facial recognition probability: 0.3
+	Photo 2:
+	url: https://images-ssl.gotinder.com/5bcc6c66f51fe1f73b7835cb/640x640_5a6e35ad-ac46-4e23-a4a4-9cb9c6064d21.jpg
+	MSE: 6722.77142314
+	SSIM: 0.423240173727	bits of difference: 57
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+
+Name: Jesse
+age: 21
+distance from search origin: 6.43736km
+instagram profile: jesse_bryan
+Photos:
+
+	Photo 1:
+	url: https://images-ssl.gotinder.com/5b2bff4696e1f82b6493fdf1/640x800_a2eb90ba-4901-4604-a43d-4c63ad1d9723.jpg
+	MSE: 4184.77542905
+	SSIM: 0.434287241791	bits of difference: 58
+	facial recognition probability: 0.3
+------------------------------------------------------------------------------
+
+

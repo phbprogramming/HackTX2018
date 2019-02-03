@@ -6,6 +6,7 @@ import time
 import requests
 import json
 import imagecompare
+import os
 
 
 MOBILE_USER_AGENT = r"Mozilla/5.0 (Linux; U; en-gb; KFTHWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.16 Safari/535.19"
@@ -70,25 +71,28 @@ def getToken(number, code, req_code):
         return token_response["data"]["api_token"]
 
 def record_profile(name, age, distance, insta, photos):
-    f.write("Name: " + name)
-    f.write("age: " + age)
-    f.write("distance from search origin: " + distance + "km")
+    f = open("logfile.txt", "a")
+    f.write("Name: " + name + "\n")
+    f.write("age: " + age + "\n")
+    f.write("distance from search origin: " + distance + "km\n")
 
-    f.write("instagram profile: " + insta)
-    f.write("Photos:")
+    f.write("instagram profile: " + insta + "\n")
+    f.write("Photos:\n\n")
 
     num = 1
     for photo in photos:
-        f.write("\tPhoto " + str(num) + ":")
-        f.write("\turl: " + str(photo[0]))
-        f.write("\tMSE: " + str(hoto[1]))
+        print(photo)
+        f.write("\tPhoto " + str(num) + ":\n")
+        f.write("\turl: " + str(photo[0]) + "\n")
+        f.write("\tMSE: " + str(photo[1]) + "\n")
         f.write("\tSSIM: " + str(photo[2]))
-        f.write("\tbits of difference: " + str(photo[3]))
-        f.write("\tfacial recognition probability" + str(photo[4]))
+        f.write("\tbits of difference: " + str(photo[3]) + "\n")
+        f.write("\tfacial recognition probability: " + str(photo[4]) + "\n")
         num += 1
 
-    f.write("------------------------------------------------------------------------------")
+    f.write("------------------------------------------------------------------------------\n\n\n")
     f.flush()
+    f.close()
 
 # {'name': 'ok', 'ageRange': ['ok', 'ok'], 'fileName': ['02ee45ff-58ed-4aaf-9c2f-1262c95c7f60.mp4', '079e640b-0c52-4741-a2
 # d1-59d80e285cca.mp4', '149f92b8-9a12-4404-b043-e1f27fcabcde.mp4', '1d4daa86-5f5b-47a9-858f-47f9e4c81dcf.mp4', '20180324_
@@ -106,7 +110,7 @@ def record_profile(name, age, distance, insta, photos):
 def run(guiInput):
     # result = imagecompare.doComparison(guiInput["fileName"][0], "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_lizards.jpg")
     # return result[1]
-    phone_number = "15125228879"
+    phone_number = "15122564677"
     log_code = sendCode(phone_number)
     sms_code = input("Please enter the code you've received by sms")
 
@@ -116,34 +120,54 @@ def run(guiInput):
 
     session = pynder.Session(XAuthToken=myToken)
     session.update_location(guiInput['location'][0], guiInput['location'][1])
+
+
     users = session.nearby_users(guiInput['radius'])
+    print("users object")
+    print(users)
+    print("users type")
+    print(type(users))
 
     i = 1
 
-    #itertools.islice(users, 10):
-    #needs to stop using relative path, is only geting the first one
-    basephoto = guiInput["fileName"][0]
+    while(True):
 
-    f = open("logfile.txt", "a")
+        user = next(users)
 
-    for user in users:
         match = False
-        time.sleep(1)
+        time.sleep(0.25)
         print(" ")
         print(i)
         i+=1
         print("Name: " + str(user.name))
         print("Insta: " + str(user.instagram_username))
         print("Age: " + str(user.age))
+        print("Dist: " + str(user.distance_km))
+        print()
+
+        if str(user.name).lower() != "ashlee":
+            print("not Ashlee")
+            continue
 
         matchPhotos = []
 
         for url in user.photos:
             photoObject = []
+            print()
+            print(url + ":")
             for imageLoc in guiInput['fileName']:
                 result = imagecompare.doComparison(imageLoc, url)
-                if (result[0] < 3000 or result[1] > 0.4 or result[2] < 30 or result[3] > 0.4):
+                print(imageLoc)
+                print(result)
+                if (result[0] < 3000 or result[1] > 0.5 or result[2] < 30 or (result[3] < 0.4 and result[3] > -1)):
+                    os.system('say "target found"')
+                    os.system('say "Preston I have found the target"')
+                    print("THIS PHOTO IS A POSSIBLE MATCH")
+                    print(url)
                     match = True
-                photo_tup = (url, result[0], result[1], result[2], result[3])
+                    photo_tup = [url, result[0], result[1], result[2], result[3]]
+                    matchPhotos.append(photo_tup)
         if(match):
-            record_profile(user.name, str(user.age), str(user.distance_km), str(user.instagram_username), photo_tup)
+            record_profile(user.name, str(user.age), str(user.distance_km), str(user.instagram_username), matchPhotos)
+
+        #user.dislike()

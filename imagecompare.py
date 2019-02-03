@@ -5,6 +5,7 @@ import dhash
 from PIL import Image
 import urllib
 import io
+import faceDetection
 #import face
 
 def url_to_image(url):
@@ -41,7 +42,8 @@ def compareImages(imageA, imageB):
 
 # photo1 has to be local and photo2 has to be a link
 def doComparison(photo1loc, photo2loc):
-    original = cv2.imread(photo1loc)
+    #print(photo1loc)
+    original = cv2.imread("thePhotos/" + str(photo1loc))
     contrast = url_to_image(photo2loc)
     contrast = cv2.resize(contrast, (original.shape[1], original.shape[0]))
 
@@ -49,9 +51,10 @@ def doComparison(photo1loc, photo2loc):
     contrast = cv2.cvtColor(contrast, cv2.COLOR_BGR2GRAY)
     MSE, SSIM = compareImages(original, contrast)
 
-    image1 = Image.open(photo1loc)
+    image1 = Image.open("thePhotos/" + str(photo1loc))
     row1, col1 = dhash.dhash_row_col(image1)
     # print(dhash.format_hex(row1, col1))
+
 
     newfile = io.BytesIO(urllib.request.urlopen(photo2loc).read())
 
@@ -64,6 +67,6 @@ def doComparison(photo1loc, photo2loc):
 
     #faceCompare = face.beginImageRec(photo1loc, photo2loc)
 
-    faceCompare = 0.3
+    faceCompare = faceDetection.compareFaces("thePhotos/" + str(photo1loc), photo2loc)
 
     return (MSE, SSIM, num_bits_different, faceCompare)
